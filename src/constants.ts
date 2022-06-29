@@ -1,5 +1,5 @@
 import JSBI from 'jsbi'
-import { factory } from './moonbase_address.json'
+import { factory } from './cypherium_address.json'
 
 // exports for external consumption
 export type BigintIsh = JSBI | bigint | string
