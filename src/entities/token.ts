@@ -2,7 +2,7 @@ import invariant from 'tiny-invariant'
 import { ChainId } from '../constants'
 import { validateAndParseAddress } from '../utils'
 import { Currency } from './currency'
-import { WETH } from '../moonbase_address.json'
+import { WETH } from '../cypherium_address.json'
 
 /**
  * Represents an ERC20 token with a unique address and some metadata.
