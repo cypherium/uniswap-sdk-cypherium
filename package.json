@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "🛠 An example SDK for building applications on top of Uniswap in Cypherium.",
   "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "typings":
+  "dist/index.d.ts",
   "files": [
     "dist"
   ],
